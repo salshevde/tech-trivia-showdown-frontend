@@ -1,0 +1,251 @@
+{"questions":[
+    {
+       
+        "topic":"it *IS* Rocket Science",
+        "questions":[{
+            "question": "Which major aerospace agency awarded SpaceX a contract to develop the Crew Dragon spacecraft for transporting astronauts to the International Space Station (ISS)?",
+            "answer": "NASA",
+            "points": 100
+        },{
+            "question": "Who is considered the founding father of ISRO and served as its first Chairman?",
+            "answer": "Dr. Vikram Sarabhai",
+            "points": 200
+        },
+        {
+            "question": "How many IIT’S offer branch of the Aerospace engineering?",
+            "answer": "5: Kanpur , Madras, Bombay, Kharagpur, Hyderabad",
+            "points": 300
+        },
+        {"question":"Name of the historic mission conducted by NASA, that achieved the first human landing on the Moon",
+        "answer": "Apollo 11",
+        
+            
+            "points": 400
+        }, 
+        {
+            
+            "question": "Name the spacecraft which sent to study Saturn’s moon and it successfully orbit around the Saturn?",
+            "answer": "cassini",
+            "points": 500
+        }
+    ]
+        
+        
+
+    },
+
+ 
+
+    {
+        "topic":"Gadgets and Gizmos",
+        "questions":[{
+            "question": "Which company is famous for its high-end gaming laptops and accessories, including the ROG (Republic of Gamers) brand?",
+            "answer": "ASUS",
+            "points": 100
+        },
+        {
+            "question": "What is the NVIDIA graphics card series that support ray tracing technology",
+            "answer": "RTX",
+            "points": 200
+        },
+        {
+            "question": "VRR stands for?",
+            "answer": "Variabl Refresh Rate",
+            "points": 300
+        },
+        {
+            "question": "Processor used in Samsung S23 ultra",
+            "answer": "Qualcomm Snapdragon 8 Gen 2",
+            "points": 400
+        },
+        {
+            "question": "",
+            "answer": "RTX",
+            "points": 500
+        }
+    ]
+
+    },
+
+    {
+        "topic":"Things of Internet (ToI)",
+        "questions":[{
+            "question": "The Imitation Game,a 2014 period biographical thriller film, starred which famous hollywood actor ",
+            "answer": "Benedict Cumberbatch",
+            "points": 100
+        },
+        {
+            "question": "Which fictional artificial intelligence serves as the main antagonist in the 'Terminator' film series",
+            "answer": "Skynet",
+            "points": 200
+        },
+        {
+            "question": "Full form of JARVIS and EDITH",
+            "answer": "'Just A Rather Very Intelligent System' & 'Even Dead I am the Hero'" ,
+            "points": 300
+        },
+        {
+            "question": "Franky, is one of the main characters in One Piece and the shipwright of the Straw Hat Pirates. What is his birth name?",
+            "answer": "Cutty Flam",
+            "points": 400
+        },
+        {
+            "question": "What is Aishwarya Rai Bachan's character in ROBOT?",
+            "answer": "Sana",
+            "points": 500
+        }
+    ]
+
+    },
+
+    {   
+        "topic":"Synthetic Smarts",
+        "questions":[{
+            "question": "The total number of ways in which a robot arm can move is known as\na) Functional Orientation\nb) Degrees of Freedom\nc) Dimesnsional Versatility\nd) Coordinate Geometry",
+            "answer": "Degrees of freedom",
+            "points": 100
+        },
+        {
+            "question": "The imitation game was the original name of ?",
+            "answer": "The Turing test",
+            "points": 200
+        },
+        {
+            
+            "question": "Machines that try to imitate human intuition while handling vague information lie in the field of AI called?",
+            "answer": "Fuzzy logic",
+            "points": 300
+        },        {
+            "question": "Which company focuses on developing brain-computer interfaces and is owned by Elon Musk",
+            "answer": "Neuralink",
+            "points": 400
+        },
+        {
+            "question": "How many types of recognition are there in AI?",
+            "answer": "There are 3 types of recognition in AI: Biometric Identification, Content-Based Image Retrieval, Handwriting Recognition.",
+            "points": 500
+        }
+    ]
+    },
+    {   
+        "topic":"eNgInEeRiNg",
+        "questions":[{
+            "question": "The study of motion without regard to forces is known as?",
+            "answer": "Kinematics",
+            "points": 100
+        },
+        {
+            "question": "Which engineering is the study of objects and systems in motion?",
+            "answer": "Mechanical Engineering",
+            "points": 200
+        },
+        {
+            
+            "question": "Machines that try to imitate human intuition while handling vague information lie in the field of AI called?",
+            "answer": "Fuzzy logic",
+            "points": 300
+        },        {
+            "question": "",
+            "points": 400
+        },
+        {
+            "question": "How many types of recognition are there in AI?",
+            "answer": "There are 3 types of recognition in AI: Biometric Identification, Content-Based Image Retrieval, Handwriting Recognition.",
+            "points": 500
+        }
+    ]
+    }
+],
+
+"teams":[
+    {
+        "team-name":"Champions",
+        "points":0,
+        "participant1":"Varshini",
+        "participant2":"Manikanta",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"NOOBS",
+        "points":0,
+        "participant1":"Kshitiz Gangwar",
+        "participant2":"Saksham Sharma",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"Tech Titans",
+        "points":0,
+        "participant1":"Hridyansh Sharma",
+        "participant2":"Harshit Soni",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"DEADPOOL",
+        "points":0,
+        "participant1":"Pradeep Kumar",
+        "participant2":"Arpit Jain",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"URANTICA",
+        "points":0,
+        "participant1":"Saumya",
+        "participant2":"Anurag",
+        "wager-amount": 0,
+        "wager-to":""
+    },
+    {
+        "team-name":"Taunky Cutie 3.0",
+        "points":0,
+        "participant1":"Harsh Sharma",
+        "participant2":"Pradyot Soni",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"Team Modular",
+        "points":0,
+        "participant1":"Yanshu Patel",
+        "participant2":"Ankit Mishra",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"Metabots",
+        "points":0,
+        "participant1":"Param Sonawane",
+        "participant2":"Namra Koyani",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"Team 4",
+        "points":0,
+        "participant1":"Ayush",
+        "participant2":"Kavya",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"BugBiters",
+        "points":0,
+        "participant1":"Manini",
+        "participant2":"Lehari",
+        "wager-amount": 0,
+        "wager-answer":"",
+        "wager-to": ""
+
+    }
+],
+
+"currentStats":{
+    "currQuestion": "",
+    "currPoints": ""
+},
+
+"finalStats":{
+    "question": "final question loololololololololo",
+    "answer": "askhaklgh",
+    "active": 0
+},
+
+"tieBreaker":{
+
+}
+}   

@@ -1,0 +1,191 @@
+{
+  "questions": [
+    {
+      "topic": "t1",
+      "questions": [
+        {
+          "question": "q1",
+          "answer": "a1",
+          "points": 100
+        },
+        {
+          "question": "q2",
+          "answer": "a2",
+          "points": 200
+        },
+        { "question": "q2", "answer": "a2", "points": 200 },
+        { "question": "q2", "answer": "a2", "points": 200 },
+        { "question": "q2", "answer": "a2", "points": 200 }
+      ]
+    },
+
+    {
+        "topic": "t1",
+        "questions": [
+          {
+            "question": "q1",
+            "answer": "a1",
+            "points": 100
+          },
+          {
+            "question": "q2",
+            "answer": "a2",
+            "points": 200
+          },
+          { "question": "q2", "answer": "a2", "points": 200 },
+          { "question": "q2", "answer": "a2", "points": 200 },
+          { "question": "q2", "answer": "a2", "points": 200 }
+        ]
+      },
+      {
+        "topic": "t1",
+        "questions": [
+          {
+            "question": "q1",
+            "answer": "a1",
+            "points": 100
+          },
+          {
+            "question": "q2",
+            "answer": "a2",
+            "points": 200
+          },
+          { "question": "q2", "answer": "a2", "points": 200 },
+          { "question": "q2", "answer": "a2", "points": 200 },
+          { "question": "q2", "answer": "a2", "points": 200 }
+        ]
+      },
+
+      {
+        "topic": "t1",
+        "questions": [
+          {
+            "question": "q1",
+            "answer": "a1",
+            "points": 100
+          },
+          {
+            "question": "q2",
+            "answer": "a2",
+            "points": 200
+          },
+          { "question": "q2", "answer": "a2", "points": 200 },
+          { "question": "q2", "answer": "a2", "points": 200 },
+          { "question": "q2", "answer": "a2", "points": 200 }
+        ]
+      },
+      {
+        "topic": "t1",
+        "questions": [
+          {
+            "question": "q1",
+            "answer": "a1",
+            "points": 100
+          },
+          {
+            "question": "q2",
+            "answer": "a2",
+            "points": 200
+          },
+          { "question": "q2", "answer": "a2", "points": 200 },
+          { "question": "q2", "answer": "a2", "points": 200 },
+          { "question": "q2", "answer": "a2", "points": 200 }
+        ]
+      }
+  ],
+
+  "teams": [
+    {
+      "team-name": "Champions",
+      "points": 0,
+      "participant1": "Varshini",
+      "participant2": "Manikanta",
+      "wager-amount": 0,
+      "wager-to": ""
+    },
+    {
+      "team-name": "NOOBS",
+      "points": 0,
+      "participant1": "Kshitiz Gangwar",
+      "participant2": "Saksham Sharma",
+      "wager-amount": 0,
+      "wager-to": ""
+    },
+    {
+      "team-name": "Tech Titans",
+      "points": 0,
+      "participant1": "Hridyansh Sharma",
+      "participant2": "Harshit Soni",
+      "wager-amount": 0,
+      "wager-to": ""
+    },
+    {
+      "team-name": "DEADPOOL",
+      "points": 0,
+      "participant1": "Pradeep Kumar",
+      "participant2": "p2",
+      "wager-amount": 0,
+      "wager-to": ""
+    },
+    {
+      "team-name": "team5",
+      "points": 0,
+      "participant1": "p1",
+      "participant2": "p2",
+      "wager-amount": 0,
+      "wager-to": ""
+    },
+    {
+      "team-name": "team1",
+      "points": 0,
+      "participant1": "p1",
+      "participant2": "p2",
+      "wager-amount": 0,
+      "wager-to": ""
+    },
+    {
+      "team-name": "team2",
+      "points": 0,
+      "participant1": "p1",
+      "participant2": "p2",
+      "wager-amount": 0,
+      "wager-to": ""
+    },
+    {
+      "team-name": "team3",
+      "points": 0,
+      "participant1": "p1",
+      "participant2": "p2",
+      "wager-amount": 0,
+      "wager-to": ""
+    },
+    {
+      "team-name": "team4",
+      "points": 0,
+      "participant1": "p1",
+      "participant2": "p2",
+      "wager-amount": 0,
+      "wager-to": ""
+    },
+    {
+      "team-name": "team5",
+      "points": 0,
+      "participant1": "p1",
+      "participant2": "p2",
+      "wager-amount": 0,
+      "wager-answer": "",
+      "wager-to": ""
+    }
+  ],
+
+  "currentStats": {
+    "currQuestion": "",
+    "currPoints": ""
+  },
+
+  "finalStats": {
+    "question": "final question loololololololololo",
+    "answer": "askhaklgh",
+    "active": 0
+  }
+}

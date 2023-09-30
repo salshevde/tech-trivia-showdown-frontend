@@ -1,0 +1,158 @@
+:root {
+  --droid-light-blue: #c0c0c0;
+  --droid-teal: #b10dc9;
+  --droid-dark-blue: #152f4b;
+  --dark-blue: #001f3f;
+  --electric-green: #3d9970;
+}
+
+.presenter-wrapper {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+}
+img {
+    height: 100px;
+    margin: 20px;
+  }
+/*Stop watch */
+.stopwatch {
+  position: fixed;
+  left: 0px;
+  top: 0;
+  margin: 20px;
+}
+
+.stopwatch h1 {
+  font-weight: 1;
+  font-size: 50px;
+}
+
+
+/*question section*/
+
+.topics {
+  width: calc(65vw);
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.topic-name {
+  /*font-family: 'Phudu', cursive;*/
+  font-family: "Share Tech", sans-serif;
+  text-transform: uppercase;
+  display: inline-block;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.questions {
+  width: 65vw;
+  display: flex;
+  margin-left: 40px;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 30px;
+  align-items: center;
+  text-align: center;
+}
+
+.question-button {
+  max-width: 140px;
+  outline: none;
+  text-decoration: none;
+  padding: 20px 40px;
+  margin-top: 30px;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  background-color: whitesmoke;
+  color: #30333e;
+
+  border-radius: 10px;
+}
+
+.question-render {
+  z-index: 2;
+  width: 65vw;
+  color: white;
+  height: 500px;
+  font-size: 50px;
+  background-color: rgba(245, 245, 245, 0.685);
+
+  border-radius: 10px;
+  position: relative;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.question-render p {
+  margin: 30px;
+}
+.question-button:hover {
+  max-width: 140px;
+  background-color: aqua;
+  box-shadow: 5px 10px 8px rgba(255, 215, 0, 0.15);
+  color: gold;
+  transition: 0.5s;
+}
+
+.nextQuestion {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 20px 40px;
+  border-radius: 10px;
+}
+
+.answer {
+  position: absolute;
+  bottom: 0;
+  right: 150px;
+  padding: 20px 40px;
+  border-radius: 10px;
+}
+.answer-display {
+  background-color: rgba(140, 232, 240, 0.689);
+  border-radius: 10px;
+  position: absolute;
+  bottom: -250px;
+  width: 65vw;
+}
+.finalShow {
+  position: absolute;
+  top: 50vh;
+
+  transition: 10s;
+}
+
+.finalShow button {
+  padding: 50px 75px;
+  transition: 10s;
+  font-size: larger;
+}
+
+/* Leaderboard Button*/
+.leaderboard-button {
+  position: fixed;
+  background-color: rgba(240, 248, 255, 0.3);
+  border-radius: 10px;
+  padding: 20px;
+  font-size: 20px;
+  top: 0;
+  right: 0;
+}
+
+.leaderboard-button:hover {
+  background-color: rgba(240, 248, 255, 0.9);
+  transition: 0.5s;
+}

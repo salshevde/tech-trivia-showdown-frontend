@@ -1,0 +1,35 @@
+.timer-wrapper {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    position: fixed;
+    top:0;
+    left:0;
+    margin: 20px;
+
+  }
+  
+  .timer {
+    font-family: 'Share Tech', sans-serif;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .text {
+    font-size: 1.5rem;
+    color: #aaa;
+    font-family: 'Share Tech', sans-serif;
+  }
+  
+  .value {
+    font-size: 40px;
+  }
+
+  .button-restart-wrapper button{
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    padding: 10px;
+  }
