@@ -3,10 +3,35 @@ height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 .buzzer{
     font-size: 100px;
-    position:absolute;
     border-radius: 10px;
     padding: 20px;
+}
+.team-info-client{
+    width: 75vw;
+    height: 25vh;
+    background-color: rgba(245, 245, 245, 0.685);
+    
+    margin: 50px;
+}
+.team-points-client{
+    border: white solid;
+    height:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-size: 25px;
+}
+.team-name-client{
+    border:white solid;
+    height:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-size: 25px;
 }
