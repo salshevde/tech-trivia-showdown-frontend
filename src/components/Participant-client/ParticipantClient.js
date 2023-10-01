@@ -19,7 +19,7 @@ export default function ParticipantClient(props){
 
         let message = {
           at: time,
-          teamno : teamId
+          teamname : teamName
         };
         socket.emit("message",message)
     }
