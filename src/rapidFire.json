@@ -1,0 +1,164 @@
+{"questions":[
+    {
+       
+        "topic":"it *IS* Rocket Science",
+        "questions":[{
+            "question": "Which major aerospace agency awarded SpaceX a contract to develop the Crew Dragon spacecraft for transporting astronauts to the International Space Station (ISS)?",
+            "answer": "NASA",
+            "points": 100
+        },{
+            "question": "Who is considered the founding father of ISRO and served as its first Chairman?",
+            "answer": "Dr. Vikram Sarabhai",
+            "points": 200
+        },
+        {
+            "question": "How many IIT’S offer branch of the Aerospace engineering?",
+            "answer": "5: Kanpur , Madras, Bombay, Kharagpur, Hyderabad",
+            "points": 300
+        },
+        {"question":"Name of the historic mission conducted by NASA, that achieved the first human landing on the Moon",
+        "answer": "Apollo 11",
+        
+            
+            "points": 400
+        }, 
+        {
+            
+            "question": "Name the spacecraft which sent to study Saturn’s moon and it successfully orbit around the Saturn?",
+            "answer": "cassini",
+            "points": 500
+        }
+    ]
+        
+        
+
+    },
+
+ 
+
+    {
+        "topic":"Gadgets and Gizmos",
+        "questions":[{
+            "question": "Which company is famous for its high-end gaming laptops and accessories, including the ROG (Republic of Gamers) brand?",
+            "answer": "ASUS",
+            "points": 100
+        },
+        {
+            "question": "What is the NVIDIA graphics card series that support ray tracing technology",
+            "answer": "RTX",
+            "points": 200
+        },
+        {
+            "question": "VRR stands for?",
+            "answer": "Variable Refresh Rate",
+            "points": 300
+        },
+        {
+            "question": "Processor used in Samsung S23 ultra",
+            "answer": "Qualcomm Snapdragon 8 Gen 2",
+            "points": 400
+        },
+        {
+            "question": "What is the next generation of computer memory?",
+            "answer": "DDR6",
+            "points": 500
+        }
+    ]
+
+    }
+
+ 
+],
+
+"teams":[
+    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Varshini",
+        "participant2":"Manikanta",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Kshitiz Gangwar",
+        "participant2":"Saksham Sharma",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Hridyansh Sharma",
+        "participant2":"Harshit Soni",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Pradeep Kumar",
+        "participant2":"Arpit Jain",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Saumya",
+        "participant2":"Anurag",
+        "wager-amount": 0,
+        "wager-to":""
+    },
+    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Harsh Sharma",
+        "participant2":"Pradyot Soni",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Yanshu Patel",
+        "participant2":"Ankit Mishra",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Param Sonawane",
+        "participant2":"Namra Koyani",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Ayush",
+        "participant2":"Kavya",
+        "wager-amount": 0,
+        "wager-to":""
+    },    {
+        "team-name":"RAPID FIRE ON GOING",
+        "points":"ELIMINATED",
+        "participant1":"Manini",
+        "participant2":"Lehari",
+        "wager-amount": 0,
+        "wager-answer":"",
+        "wager-to": ""
+
+    }
+],
+
+"currentStats":{
+    "currQuestion": "",
+    "currPoints": ""
+},
+
+"finalStats":{
+    "question": "final question loololololololololo",
+    "answer": "askhaklgh",
+    "active": 0
+},
+
+"tieBreaker":{
+
+}
+}   

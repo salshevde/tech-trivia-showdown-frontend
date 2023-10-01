@@ -50,7 +50,7 @@
         },
         {
             "question": "VRR stands for?",
-            "answer": "Variabl Refresh Rate",
+            "answer": "Variable Refresh Rate",
             "points": 300
         },
         {
@@ -59,8 +59,8 @@
             "points": 400
         },
         {
-            "question": "",
-            "answer": "RTX",
+            "question": "What is the next generation of computer memory?",
+            "answer": "DDR6",
             "points": 500
         }
     ]
@@ -99,7 +99,7 @@
     },
 
     {   
-        "topic":"Synthetic Smarts",
+        "topic":"Nakli Akal - AIML",
         "questions":[{
             "question": "The total number of ways in which a robot arm can move is known as\na) Functional Orientation\nb) Degrees of Freedom\nc) Dimesnsional Versatility\nd) Coordinate Geometry",
             "answer": "Degrees of freedom",
@@ -128,7 +128,7 @@
     ]
     },
     {   
-        "topic":"eNgInEeRiNg",
+        "topic":"Yahi Zindagi Hai",
         "questions":[{
             "question": "The study of motion without regard to forces is known as?",
             "answer": "Kinematics",
@@ -141,16 +141,16 @@
         },
         {
             
-            "question": "Machines that try to imitate human intuition while handling vague information lie in the field of AI called?",
-            "answer": "Fuzzy logic",
+            "question": "What is the full form of JOSAA?",
+            "answer": "Joint Seat Allocation Authority",
             "points": 300
         },        {
-            "question": "",
+            "question": "Chirag Falor, who secured JEE Advanced AIR 1 2020 and then went to MIT, studied under which educational institute?",
             "points": 400
         },
         {
-            "question": "How many types of recognition are there in AI?",
-            "answer": "There are 3 types of recognition in AI: Biometric Identification, Content-Based Image Retrieval, Handwriting Recognition.",
+            "question": "Imagine, we are all hogwarts students.A _____ is a magical incantation used by sorcerers to summon a sequence of enchanted beings (or objects) into existence, again and again. ",
+            "answer": "loops",
             "points": 500
         }
     ]
