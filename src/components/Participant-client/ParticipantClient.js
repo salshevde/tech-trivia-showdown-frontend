@@ -1,7 +1,7 @@
 import './participant-client.css'
 import {io} from 'socket.io-client'
 
-const socket = io.connect("http://localhost:3000")
+const socket = io.connect("https://tech-trivia-showdown-backend.onrender.com")
 export default function ParticipantClient(props){
     const {teamId} = props;
     function buzz(){let today = new Date();

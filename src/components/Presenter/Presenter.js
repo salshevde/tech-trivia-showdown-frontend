@@ -17,7 +17,7 @@ import { io } from "socket.io-client";
 // Styling imports
 import "./presenter.css";
 
-const socket = io.connect("http://localhost:3000");
+const socket = io.connect("https://tech-trivia-showdown-backend.onrender.com");
 
 // MAIN
 export default function Presenter() {
