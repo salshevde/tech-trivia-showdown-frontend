@@ -19,13 +19,12 @@
         {"question":"Name of the historic mission conducted by NASA, that achieved the first human landing on the Moon",
         "answer": "Apollo 11",
         
-            
             "points": 400
         }, 
         {
             
-            "question": "Name the spacecraft which sent to study Saturn’s moon and it successfully orbit around the Saturn?",
-            "answer": "cassini",
+            "question": "Name the coronagraphy spacecraft to study the solar atmosphere, designed and developed by ISRO",
+            "answer": "Aditya L1",
             "points": 500
         }
     ]
@@ -99,7 +98,7 @@
     },
 
     {   
-        "topic":"Nakli Akal - AIML",
+        "topic":"Nakli Akal ( AIML)",
         "questions":[{
             "question": "The total number of ways in which a robot arm can move is known as\na) Functional Orientation\nb) Degrees of Freedom\nc) Dimesnsional Versatility\nd) Coordinate Geometry",
             "answer": "Degrees of freedom",
@@ -146,6 +145,7 @@
             "points": 300
         },        {
             "question": "Chirag Falor, who secured JEE Advanced AIR 1 2020 and then went to MIT, studied under which coaching institute?",
+            "answer": "Aakash",
             "points": 400
         },
         {
@@ -240,8 +240,8 @@
 },
 
 "finalStats":{
-    "question": "final question loololololololololo",
-    "answer": "askhaklgh",
+    "question": "Hanson Robotics, which developed the famous - Sophia, is based in which country?",
+    "answer": "China",
     "active": 0
 },
 

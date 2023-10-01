@@ -111,7 +111,7 @@ export default function Presenter() {
     setCurrQuestion(finalStats.question);
     setCurrAns(finalStats.answer);
     set(ref(db, "/finalStats/active"), 1);
-    updateCurrQuestion(finalStats.question, 1);
+    updateCurrQuestion(finalStats.question, 1000);
   }
   /*--------------------Creating Question Table--------------------*/
 
