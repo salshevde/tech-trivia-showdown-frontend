@@ -32,7 +32,7 @@ export default function Admin() {
   /*--------------------Socket--------------------*/
   useEffect(()=>{
     socket.on("buzz-broadcast",(data)=>{
-      alert(data.teamname," BUZZED AT " ,data.time)
+      alert(data.teamname," BUZZED AT " ,data.at)
     }
     )
   },[socket])

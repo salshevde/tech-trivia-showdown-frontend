@@ -38,7 +38,7 @@ export default function Presenter() {
   /*--------------------Socket--------------------*/
   useEffect(() => {
     socket.on("buzz-broadcast", (data) => {
-      alert(data.teamname," BUZZED AT " ,data.time)
+      alert(data.teamname," BUZZED AT " ,data.at)
     });
   }, [socket]);
   /*--------------------Firebase--------------------*/
